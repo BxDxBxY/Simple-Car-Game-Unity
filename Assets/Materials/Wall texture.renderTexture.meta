@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2cf84feb9ef48a042b4b2143f239a15b
+labels:
+- Architecture
+- Terrain
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: wall
+  assetBundleVariant: 
